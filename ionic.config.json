@@ -1,5 +1,7 @@
 {
-  "name": "ionic--maps-toast-test",
-  "integrations": {},
+  "name": "ionic5-maps-toast-test",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
